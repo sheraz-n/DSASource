@@ -1,0 +1,4 @@
+#This is the git ignore file
+
+*.exe
+*.o
